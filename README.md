@@ -1,0 +1,2 @@
+# khalari-pharmacy
+pharmarcy project
